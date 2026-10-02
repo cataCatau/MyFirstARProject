@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="caiet" size="1.000000 1.450425" />
+    <ImageTarget name="carte" size="1.000000 1.422222" />
+  </Tracking>
+</QCARConfig>
